@@ -1,0 +1,494 @@
+fileFormatVersion: 2
+guid: 806e541df32d44e48b00b989aef2cd11
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5116491275577647968
+    second: DoubleJumpTuto_0
+  - first:
+      213: 7046096628271464831
+    second: DoubleJumpTuto_1
+  - first:
+      213: -8517777272600955802
+    second: DoubleJumpTuto_2
+  - first:
+      213: 6271689659524072246
+    second: DoubleJumpTuto_3
+  - first:
+      213: -3011500551343049610
+    second: DoubleJumpTuto_4
+  - first:
+      213: 5133471821041867892
+    second: DoubleJumpTuto_5
+  - first:
+      213: 6934086541986354157
+    second: DoubleJumpTuto_6
+  - first:
+      213: 4217862789826775414
+    second: DoubleJumpTuto_7
+  - first:
+      213: -3223851054753666259
+    second: DoubleJumpTuto_8
+  - first:
+      213: -4459366978669643281
+    second: DoubleJumpTuto_9
+  - first:
+      213: -6919929308364465203
+    second: DoubleJumpTuto_10
+  - first:
+      213: -2950698055729567923
+    second: DoubleJumpTuto_11
+  - first:
+      213: -1117027795396578306
+    second: DoubleJumpTuto_12
+  - first:
+      213: -1335823121840584325
+    second: DoubleJumpTuto_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DoubleJumpTuto_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 340
+        width: 70
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 063e031f4bd610740800000000000000
+      internalID: 5116491275577647968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoubleJumpTuto_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 334
+        width: 73
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f71c2353d83c8c160800000000000000
+      internalID: 7046096628271464831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoubleJumpTuto_2
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 339
+        width: 65
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66479be13b6cac980800000000000000
+      internalID: -8517777272600955802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoubleJumpTuto_3
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 341
+        width: 63
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6334c693484890750800000000000000
+      internalID: 6271689659524072246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoubleJumpTuto_4
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 341
+        width: 53
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 674fd4444300536d0800000000000000
+      internalID: -3011500551343049610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoubleJumpTuto_5
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 253
+        width: 104
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47c9da54c61cd3740800000000000000
+      internalID: 5133471821041867892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoubleJumpTuto_6
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 177
+        width: 114
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de3d9e8b8f2da3060800000000000000
+      internalID: 6934086541986354157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoubleJumpTuto_7
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 211
+        width: 64
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67986f23cdbd88a30800000000000000
+      internalID: 4217862789826775414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoubleJumpTuto_8
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 239
+        width: 82
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2ba3a0eb849243d0800000000000000
+      internalID: -3223851054753666259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoubleJumpTuto_9
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 190
+        width: 141
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe9f9411c552d12c0800000000000000
+      internalID: -4459366978669643281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoubleJumpTuto_10
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 2
+        width: 390
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcb1f1815f877ff90800000000000000
+      internalID: -6919929308364465203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoubleJumpTuto_11
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 52
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d47adc470c30d07d0800000000000000
+      internalID: -2950698055729567923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoubleJumpTuto_12
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 68
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef3362b63258f70f0800000000000000
+      internalID: -1117027795396578306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoubleJumpTuto_13
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 35
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7940fbb2f3367de0800000000000000
+      internalID: -1335823121840584325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      DoubleJumpTuto_0: 5116491275577647968
+      DoubleJumpTuto_1: 7046096628271464831
+      DoubleJumpTuto_10: -6919929308364465203
+      DoubleJumpTuto_11: -2950698055729567923
+      DoubleJumpTuto_12: -1117027795396578306
+      DoubleJumpTuto_13: -1335823121840584325
+      DoubleJumpTuto_2: -8517777272600955802
+      DoubleJumpTuto_3: 6271689659524072246
+      DoubleJumpTuto_4: -3011500551343049610
+      DoubleJumpTuto_5: 5133471821041867892
+      DoubleJumpTuto_6: 6934086541986354157
+      DoubleJumpTuto_7: 4217862789826775414
+      DoubleJumpTuto_8: -3223851054753666259
+      DoubleJumpTuto_9: -4459366978669643281
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
