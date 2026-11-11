@@ -8,6 +8,7 @@ TagManager:
   - DeathTrigger
   - DirectionTrigger
   - Ground
+  - Ennemy
   layers:
   - Default
   - TransparentFX
