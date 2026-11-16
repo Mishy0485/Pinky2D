@@ -9,6 +9,8 @@ TagManager:
   - DirectionTrigger
   - Ground
   - Ennemy
+  - OptionMenuInGame
+  - OptionsMenu
   layers:
   - Default
   - TransparentFX
