@@ -743,6 +743,30 @@ PrefabInstance:
       propertyPath: m_LocalPosition.y
       value: 3.69
       objectReference: {fileID: 0}
+    - target: {fileID: 3537931342333081011, guid: 3df372c10686ff643b415dbcc5294826, type: 3}
+      propertyPath: maxX
+      value: 32.59
+      objectReference: {fileID: 0}
+    - target: {fileID: 3537931342333081011, guid: 3df372c10686ff643b415dbcc5294826, type: 3}
+      propertyPath: maxY
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 3537931342333081011, guid: 3df372c10686ff643b415dbcc5294826, type: 3}
+      propertyPath: minX
+      value: 1.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3537931342333081011, guid: 3df372c10686ff643b415dbcc5294826, type: 3}
+      propertyPath: minY
+      value: -5.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 3537931342333081011, guid: 3df372c10686ff643b415dbcc5294826, type: 3}
+      propertyPath: JumpOffset
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3537931342333081011, guid: 3df372c10686ff643b415dbcc5294826, type: 3}
+      propertyPath: followSpeed
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 3539532138185944099, guid: 3df372c10686ff643b415dbcc5294826, type: 3}
       propertyPath: m_LocalPosition.x
       value: -51.27
